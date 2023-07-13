@@ -1,6 +1,8 @@
-# Adversarially-Robust Source-free Domain Adaptation with Relaxed Adversarial Training
+# Adversarially Robust Source-free Domain Adaptation with Relaxed Adversarial Training
 
-This repository is the official PyTorch implementation of _"Adversarially-Robust Source-free Domain Adaptation with Relaxed Adversarial Training"_, accepted by **ICME 2023**.
+This repository is the official PyTorch implementation of _"Adversarially Robust Source-free Domain Adaptation with Relaxed Adversarial Training"_, accepted by **ICME 2023**.
+
+![pipeline](https://github.com/Coxy7/RAT/assets/22617682/f4cc12f5-d915-4157-9452-bc305fc46d09)
 
 ## Setups
 
